@@ -1,8 +1,7 @@
 
 # %%
-from ultrasonic_atomization_models.theorical_models import ThresholdAtomizationModel  
 import matplotlib.pyplot as plt
-import numpy as np
+from ultrasonic_atomization_models import ThresholdAtomizationModel
 import os
 
 plt.style.use('paper')
